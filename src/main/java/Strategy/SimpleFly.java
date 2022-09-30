@@ -1,4 +1,4 @@
-package patterns.Strategy.Observer.Strategy;
+package Strategy;
 
 public class SimpleFly implements FlyingStrategy{
     @Override

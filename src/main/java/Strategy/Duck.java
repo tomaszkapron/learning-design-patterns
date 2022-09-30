@@ -1,4 +1,4 @@
-package patterns.Strategy.Observer.Strategy;
+package Strategy;
 
 public class Duck {
     private String name;
