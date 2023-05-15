@@ -1,7 +1,7 @@
 # learning-design-patterns
 Example implementations of design patterns for learning purposes.
 
-## Implemented designs
+## Implemented design patterns
 ### Creational patterns
 1. Singleton
 2. Factory Method
